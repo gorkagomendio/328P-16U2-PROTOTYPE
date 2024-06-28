@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Usuario\Dropbox\.ELECTRONICA\CURSOS\FEDEVEL Academy\PCB Desarrollo ArduGorka\PCB_Project\PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width_Powers|Scope=Board|Minimum=15.75
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Around_Polygons|Scope=Board|Minimum=11.81
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
